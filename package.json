@@ -4,6 +4,7 @@
   "description": "FCC Node project",
   "keywords": ["node", "freecodecamp", "npm"],
   "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
