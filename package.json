@@ -2,7 +2,8 @@
   "author": "Victor Ogudu",
   "name": "fcc-learn-npm-package-json",
   "description": "FCC Node project",
-  "keywords": ["node", "fcc", "npm"],
+  "keywords": ["node", "freecodecamp", "npm"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
